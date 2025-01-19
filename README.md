@@ -1,1 +1,2 @@
-The file containing the video, power point presentaion was too big to add to githup so we had to put them in google drive. Githup has only the ESP32 code and the Flutter code.
+for testing we put vedio and presentation on drive 
+https://drive.google.com/drive/u/0/folders/1t-P63PjjkenXoegNHLQ2ODL_V9Et0ApU
