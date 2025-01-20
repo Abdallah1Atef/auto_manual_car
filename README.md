@@ -103,5 +103,3 @@ We would like to thank all the trainers, especially **Eng. Mohamed Hatem**, for 
 ---
 
 **Note**: This project was developed as part of the **IoT Training Program** under the guidance of **Eng. Mohamed Hatem Abdulkader**.
-for testing we put vedio and presentation on drive 
-https://drive.google.com/drive/u/0/folders/1t-P63PjjkenXoegNHLQ2ODL_V9Et0ApU
