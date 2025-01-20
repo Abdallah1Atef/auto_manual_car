@@ -97,9 +97,8 @@ We would like to thank all the trainers, especially **Eng. Mohamed Hatem**, for 
 ---
 
 ## Project Resources
-For the full code, test video, and presentation, please visit the GitHub repository:  
-[Abdallah1Atef/auto_manual_car](https://github.com/Abdallah1Atef/auto_manual_car)  
-![QR GitHub link for code](https://github.com/Abdallah1Atef/auto_manual_car)
+-for testing vedio and presentation
+-https://drive.google.com/drive/u/0/folders/1t-P63PjjkenXoegNHLQ2ODL_V9Et0ApU
 
 ---
 
